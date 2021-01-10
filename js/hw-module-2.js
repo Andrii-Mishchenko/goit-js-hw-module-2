@@ -6,8 +6,8 @@
 //      return array2;
 // }
 
-
 // console.log(getExtremeElements([1,2,4,5,6]))
+
 
 
 // // Задача 10
@@ -22,6 +22,7 @@
 //   }
 
 //   console.log(splitMessage('Salary Junior full stack developper w/o experience starts from 800$', ' '));
+
 
 
 // // Задача 11
@@ -56,6 +57,7 @@
 // }
 
 
+
 // // Задача 13
 // function slugify(title) {
 //   // Пиши код ниже этой строки
@@ -67,7 +69,9 @@
  
 //   // Пиши код выше этой строки
 // }
+
 // slugify('Salary Junior full stack developper w/o experience starts from 800$');
+
 
 
 // // Задача 14
@@ -78,11 +82,13 @@
 // const lastThreeEls = fruits.slice(-3);
 
 
+
 // // Задача 15
 // const oldClients = ['Манго', 'Аякс', 'Поли', 'Киви'];
 // const newClients = ['Персик', 'Хьюстон'];
 
 // const allClients = oldClients.concat(newClients); // Дополни эту строку
+
 
 
 // // Задача 16
@@ -104,6 +110,7 @@
 // console.log('NewArray:', makeArray([1, 3, 5], [2, 4, 6, 8, 10], 6));
 
 
+
 // // Задача 17
 // const start = 3;
 // const end = 7;
@@ -111,6 +118,7 @@
 // for (let i = start; i <= end; i += 1 ) { // Дополни эту строку
 //   console.log(i);
 // }
+
 
 
 // // Задача 18
@@ -123,10 +131,10 @@
 //     }
 
 //     return total;
-
 //   // Пиши код выше этой строки
 // }
 // console.log('Total:', calculateTotal(7));
+
 
 
 // // Задача 19
@@ -136,6 +144,7 @@
 //   const fruit = fruits[i]; // Дополни эту строку
 //   console.log(fruit);
 // }
+
 
 
 // // Задача 20
@@ -152,6 +161,7 @@
 // }
 
 // console.log('Total Price:', calculateTotalPrice([12, 85, 37, 4]));
+
 
 
 // // Задача 21
@@ -178,6 +188,7 @@
 // findLongestWord('Google do a roll')
 
 
+
 // // Задача 22
 // function createArrayOfNumbers(min, max) {
 //   const numbers = [];
@@ -191,6 +202,7 @@
 // }
 
 // createArrayOfNumbers(1, 5);
+
 
 
 // // Задача 23
@@ -214,6 +226,7 @@
 // filterArray([12, 24, 8, 41, 76], 38)
 
 
+
 // // Задача 24
 // function checkFruit(fruit) {
 //   const fruits = ['яблоко', 'слива', 'груша', 'апельсин'];
@@ -222,6 +235,7 @@
 // }
 
 // console.log(checkFruit('слива'));
+
 
 
 // // Задача 25
@@ -241,6 +255,7 @@
 // getCommonElements([10, 20, 30, 40], [4, 30, 17, 10, 40]);
 
 
+
 // // Задача 26
 // function calculateTotalPrice(order) {
 //   let total = 0;
@@ -253,6 +268,7 @@
 //   // Пиши код выше этой строки
 //   return total;
 // }
+
 
 
 // // Задача 27
@@ -272,12 +288,15 @@
 // }
 
 
+
 // // Задача 28
 // const a = 3 % 1; //0
 // const b = 4 % 3; //1
 // const c = 11 % 4; //3
 // const d = 12 % 7; //5
 // const e = 8 % 3; //2
+
+
 
 // // Задача 29
 // function getEvenNumbers(start, end) {
@@ -297,6 +316,7 @@
 // getEvenNumbers(6, 12)
 
 
+
 // // Задача 30
 // const start = 6;
 // const end = 27;
@@ -308,6 +328,7 @@
 //     break;
 //   }
 // }
+
 
 
 // // Задача 31
@@ -323,6 +344,7 @@
 //   }
 //   // Пиши код выше этой строки
 // }
+
 
 
 // // Задача 32
