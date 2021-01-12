@@ -30,13 +30,12 @@
 //     // Пиши код ниже этой строки
    
 //     const words = message.split(' ');
-//     console.log(words);
-//     console.log(words.length);
-
 //     const totalPrice = words.length * pricePerWord;
-//     console.log('Total Price: ', totalPrice);
 
 //     return totalPrice;
+
+// Короткий варіант:
+    // return message.split(' ').length*pricePerWord;
 
 //     // Пиши код выше этой строки
 // }
