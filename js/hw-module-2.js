@@ -1,3 +1,4 @@
+'use strict'
 
 // // Задача 9
 // function getExtremeElements(array) {

@@ -1,3 +1,4 @@
+'use strict'
 
 // Массивы
 // const userLoginsAtempts = ['jdsjsjdnn','djfsndjsndc', 'djsjdfsj', 'djnfjsnds'];
@@ -181,8 +182,4 @@
 // for (let i = 0; i < max; i += 1) {
 //   console.log(`${max} % ${i} = `, max % i);
 // }
-
-
-
-
 
