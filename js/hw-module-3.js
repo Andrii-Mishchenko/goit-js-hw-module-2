@@ -682,18 +682,14 @@
 //     removePotion(potionName) {
 
 //         for (let i = 0; i < this.potions.length; i += 1) {
-//             console.log(this.potions[i])
-           
+//                        
 //             const item = this.potions[i];
             
-//             if (potionName === item.name) {
-               
-//                 console.log('Индекс для удаления', i);
-
+//             if (potionName === item.name) {               
+//                
 //                 this.potions.splice(i, 1);
 //                 return console.log(`Нужно удалить Зелье ${potionName}`)
 //             }
-
 //         }
 //         return console.log(`Зелья ${potionName} нет в инвентаре!`);
 //     },
@@ -701,8 +697,7 @@
 //     updatePotionName(oldName, newName) {
 
 //         for (let i = 0; i < this.potions.length; i += 1) {
-//             console.log(this.potions[i])
-            
+//                       
 //             const item = this.potions[i];
 
 //             if(oldName === item.name) {
@@ -712,8 +707,7 @@
 //             }
 //         }
 //         return console.log('Такого зелья не существует');
-//     }   
-//     // Пиши код выше этой строки
+//     }    
 // }
 
 
